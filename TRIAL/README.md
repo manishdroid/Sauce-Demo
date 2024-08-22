@@ -13,7 +13,7 @@ This project contains an automated UI test for the Sauce Demo website using Webd
 
 1. Clone this repository:
    ```
-   git clone https://github.com/manishdroid/saucedemo-ui-test.git
+   git clone https://github.com/manishdroid/Sauce-Demo.git
    cd saucedemo-ui-test
    ```
 
